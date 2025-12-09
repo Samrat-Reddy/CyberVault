@@ -170,7 +170,5 @@ public class CyberVault {
                     System.out.println("Invalid choice. Choose between 1 and 5.");
             }
         }
-
-        // sc.close(); // not strictly required, program exiting
     }
 }
